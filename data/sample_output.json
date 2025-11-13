@@ -1,0 +1,30 @@
+[
+    {
+        "channelId": "31557216",
+        "displayName": "Warframe",
+        "login": "warframe",
+        "description": "Warframe is available to play for free...",
+        "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e991029b-9265.png",
+        "followersCount": 2237542,
+        "isPartner": true,
+        "stream": null,
+        "latestVideo": {
+            "id": "2285093941",
+            "title": "Warframe | Devstream 182",
+            "lengthSeconds": 6569,
+            "thumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/...",
+            "url": "https://www.twitch.tv/videos/2285093941",
+            "publishedAt": "2024-05-12T18:30:00Z"
+        },
+        "topClip": {
+            "id": "2763480287",
+            "title": "Lettie Gemini Emote",
+            "durationSeconds": 59,
+            "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-clips...",
+            "url": "https://clips.twitch.tv/SomeSlug",
+            "createdAt": "2024-05-10T16:20:00Z"
+        },
+        "nextSchedule": null,
+        "keyword": "war"
+    }
+]
