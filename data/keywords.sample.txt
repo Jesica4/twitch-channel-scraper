@@ -1,0 +1,4 @@
+# One keyword per line. Lines starting with # are ignored.
+warframe
+just chatting
+apex legends
