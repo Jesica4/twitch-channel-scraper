@@ -1,0 +1,11 @@
+{
+  "clientId": "YOUR_TWITCH_CLIENT_ID",
+  "accessToken": "YOUR_TWITCH_OAUTH_ACCESS_TOKEN",
+  "baseUrl": "https://api.twitch.tv/helix",
+  "keywordsFile": "data/keywords.sample.txt",
+  "outputFile": "data/sample_output.json",
+  "maxChannelsPerKeyword": 50,
+  "maxRetries": 3,
+  "timeoutSeconds": 15,
+  "logLevel": "INFO"
+}
